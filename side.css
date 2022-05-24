@@ -3,6 +3,27 @@ body {
     background-color: #D8F3DC;
 }
 
+.headd {
+    color: blue; 
+
+    font-size: 30px;
+ 
+   font-weight: 300;
+
+    font-style: bold;
+ 
+   text-align: center;
+ 
+   margin-top: 5px;
+
+   margin-left: 250px;
+
+   display: relative;
+     
+}
+
+
+
 .nav {
     height: 100%;
     width: 0;
