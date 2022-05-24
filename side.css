@@ -82,3 +82,8 @@ body {
 .closebtn {
     cursor: pointer;
 }
+
+.image {
+ width: 300;
+ height: 300;
+}
